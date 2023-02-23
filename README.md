@@ -1,2 +1,2 @@
-# CC-JAN-JAVA
+# CodeClause-February-JAVA
  CodeClause - Java Internship Projects.
